@@ -1,2 +1,4 @@
 Lastfm-10/* filter=lfs diff=lfs merge=lfs -text
 Lastfm-7/* filter=lfs diff=lfs merge=lfs -text
+Lastfm-10/lastfm_unsloth/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+Lastfm-7/lastfm_unsloth/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
