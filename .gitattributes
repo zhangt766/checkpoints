@@ -10,3 +10,4 @@ movielens/movie-3/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
 movielens/movie-7/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
 movielens/movie-9/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
 *.safetensors filter=lfs diff=lfs merge=lfs -text
+*.ckpt filter=lfs diff=lfs merge=lfs -text
